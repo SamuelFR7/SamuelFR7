@@ -1,7 +1,7 @@
 # Hey, I'm Samuel Rezende 
  <div style="display: inline_block">
   <a href="https://github.com/samuelfr7">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuelfr7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=samuelfr7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" width="45%"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelfr7&layout=compact&langs_count=15&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
