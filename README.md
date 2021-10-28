@@ -1,17 +1,9 @@
 # Hey, I'm Samuel Rezende 
- <div align="center">
-  <a href="https://github.com/samuelfr7">
-  <img height="150em" padding-rigth="2rem" src="https://github-readme-stats.vercel.app/api?username=SamuelFR7&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true"/>
+  <div align="center">
+  <a href="https://github.com/SamuelFR7">
+  <img height="150em" padding-rigth="2rem"src="https://github-readme-stats.vercel.app/api?username=SamuelFR7&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelFR7&layout=compact&langs_count=16&theme=shades-of-purple"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Samu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Samu-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Samu-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Samu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Samu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Samu-Anime" height="128" width="128" src="https://i.pinimg.com/564x/7c/96/e8/7c96e80e6e48061057121332efb6d86a.jpg">
-</div>
+<div>
   
   ##
  
