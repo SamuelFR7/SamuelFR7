@@ -1,15 +1,22 @@
-# Hey, I'm Samuel Rezende 
-  <div align="center">
-  <a href="https://github.com/SamuelFR7">
-  <img height="150em" padding-rigth="2rem"src="https://github-readme-stats.vercel.app/api?username=SamuelFR7&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelFR7&layout=compact&langs_count=16&theme=shades-of-purple"/>
-<div>
-  
-  ##
- 
-<div> 
-  <a href = "mailto:samuelferreirarezende@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/samuel-ferreira-rezende-7bbbba206" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-  
-  ### I'm fullstack dev from Brazil 🇧🇷, living in Acreúna, Goiás
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Samuel Rezemde</h1>
+
+- 🔥 Júnior Fullstack Web Developer.
+
+- 🧠 Focused on studies and learning each day, more about web development.
+
+- ⚛️ Node and React with Typescript are my actual stack.
+
+- 🌳 I'm currently at Grupo ACS in Brazil 🇧🇷.
+
+<br>
+
+## Contact
+
+<p align="left" style="background:yellow">
+<a href="https://linkedin.com/in/samuelfr" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-samuelfr-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://instagram.com/samuelfr7" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-samuelfr7-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a
+</p>
