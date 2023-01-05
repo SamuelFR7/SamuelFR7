@@ -8,7 +8,7 @@ I've been studying and working as a web developer for almost 2 years, creating w
 
 * 🌍  I'm based in Acreúna, Goiás, Brasil
 * ✉️  You can contact me at [samuelferreirarezende@gmail.com](mailto:samuelferreirarezende@gmail.com)
-* 🚀  I'm currently working on [RandomFlix (Site to find a random movie to watch)](http://randomflix.samuelfr.me)
+* 🚀  I'm currently working on [Recibo (A web application for issuing receipts)](https://github.com/SamuelFR7/recibov2)
 
 ### Skills
 
