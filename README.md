@@ -4,14 +4,12 @@ Hi 👋 My name is Samuel Rezende
 Fullstack Web Developer
 -----------------------
 
-I've been studying and working as a web developer for almost 2 years, creating web applications and sites from the back to the frontend.
+I've been studying and working as a web developer for 2 years, creating web applications and sites from the back to the frontend.
 
 * 🌍  I'm based in Acreúna, Goiás, Brasil
 * ✉️  You can contact me at [samuelferreirarezende@gmail.com](mailto:samuelferreirarezende@gmail.com)
-* 🚀  I'm currently working on [Recibo (A web application for issuing receipts)](https://github.com/SamuelFR7/recibov2)
 
 ### Skills
-
 
 <p align="left">
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
